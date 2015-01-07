@@ -1,0 +1,17 @@
+name: Parallelism
+version: 2.0.0
+description: "A responsive portfolio site template."
+icon: paint-binoculars
+author:
+  name: NunoPress
+  email: hello@nunopress.com
+  url: http://nunopress.com
+homepage: https://github.com/nunopress/grav-theme-parallelism
+demo: http://grav-demo.nunopress.com
+keywords: "theme, onepage, responsive, html5, css3, jquery, portfolio"
+bugs: https://github.com/nunopress/grav-theme-parallelism/issues
+license: MIT
+
+form:
+  validation: strict
+  fields:
